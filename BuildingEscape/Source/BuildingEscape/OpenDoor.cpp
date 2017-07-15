@@ -19,7 +19,7 @@ void UOpenDoor::BeginPlay()
 {
 	Super::BeginPlay();
 	auto& OwnerDoor = *GetOwner();
-	OwnerDoor.SetActorRotation(FRotator(0.f, 45.f,0.f));
+	OwnerDoor.SetActorRotation(FRotator(0.f, OpenAngle,0.f));
 	// ...
 	
 }
