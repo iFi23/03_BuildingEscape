@@ -4,8 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
-#include "OpenDoor.generated.h"
 #include "Engine/TriggerVolume.h"
+#include "OpenDoor.generated.h"
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class BUILDINGESCAPE_API UOpenDoor : public UActorComponent
@@ -26,7 +26,7 @@ public:
 
 private:
 	UPROPERTY(VisibleAnywhere)
-	float OpenAngle = 90.f;
+		float OpenAngle = 90.f;
 	UPROPERTY(EditAnywhere)
-	ATriggerVolume* 
+		ATriggerVolume* PressurePlate;
 };

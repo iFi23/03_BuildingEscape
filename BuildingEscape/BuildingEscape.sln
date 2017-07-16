@@ -48,6 +48,7 @@ Global
 		{7AA4FEA4-A97B-42D2-AB8E-448A2360A284}.Development Editor|Win32.Build.0 = BuiltWithUnrealBuildTool|Win32
 		{7AA4FEA4-A97B-42D2-AB8E-448A2360A284}.Development Editor|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
 		{7AA4FEA4-A97B-42D2-AB8E-448A2360A284}.Development Editor|Win64.Build.0 = BuiltWithUnrealBuildTool|Win32
+		{7AA4FEA4-A97B-42D2-AB8E-448A2360A284}.Development Editor|Win64.Deploy.0 = BuiltWithUnrealBuildTool|Win32
 		{7AA4FEA4-A97B-42D2-AB8E-448A2360A284}.Development|HTML5.ActiveCfg = BuiltWithUnrealBuildTool|Win32
 		{7AA4FEA4-A97B-42D2-AB8E-448A2360A284}.Development|HTML5.Build.0 = BuiltWithUnrealBuildTool|Win32
 		{7AA4FEA4-A97B-42D2-AB8E-448A2360A284}.Development|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
